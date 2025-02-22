@@ -20,7 +20,14 @@ It allows users to test scheduling scenarios by inputting `custom processes` and
 - `Java-Powered`: Built with Java 17 and runs on IntelliJ IDEA.
 
 ---
+## 📌 Important Notice:
+⚠️ The project will only run if placed in the following directory on your machine:
+```bash
+E:/Java Language/CPU_Scheduler_Simulation
+```
+Make sure the project is located in this path to function correctly.
 
+---
 ## 🛠 Technologies Used:
 - `Java 17` – Core language for implementation.
 - `IntelliJ IDEA` – Development environment.
